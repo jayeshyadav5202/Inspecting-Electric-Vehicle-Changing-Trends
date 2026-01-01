@@ -67,7 +67,7 @@ These insights help optimize station placement, reduce wait times, improve custo
 
 2. Report 2:
 
-![Dashboard_Preview]()
+![Dashboard_Preview](https://github.com/jayeshyadav5202/Inspecting-Electric-Vehicle-Changing-Trends/blob/main/Report%202.png)
 
 3. Report 3:
 
