@@ -1,7 +1,7 @@
 # Inspecting-Electric-Vehicle-Changing-Trends
-Data Analysis Project using Power BI and Python - Jupyter notebook
+- Data Analysis Project using Power BI and Python - Jupyter notebook
 
-Designed an interactive Power BI dashboard to analyze EV charging behavior, costs, and performance metrics. Implemented KPIs, advanced visuals, and slicers for user segmentation, enabling data-driven insights and optimized charging station planning.
+- Designed an interactive Power BI dashboard to analyze EV charging behavior, costs, and performance metrics. Implemented KPIs, advanced visuals, and slicers for user segmentation, enabling data-driven insights and optimized charging station planning.
 
 ## Features
 
@@ -22,7 +22,7 @@ Designed an interactive Power BI dashboard to analyze EV charging behavior, cost
 
 ## Data Source
  
-The dataset for EV charging patterns is used for the analysis and is preprocessed for better insights.
+- The dataset for EV charging patterns is used for the analysis and is preprocessed for better insights.
 
 ## Key Insights – Benefits – Future Scope
 
