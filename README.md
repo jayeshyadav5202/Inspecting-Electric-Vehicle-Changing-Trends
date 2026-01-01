@@ -3,7 +3,7 @@ Data Analysis Project using Power BI and Python - Jupyter notebook
 
 Designed an interactive Power BI dashboard to analyze EV charging behavior, costs, and performance metrics. Implemented KPIs, advanced visuals, and slicers for user segmentation, enabling data-driven insights and optimized charging station planning.
 
-**Features**
+## Features
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -11,7 +11,8 @@ Designed an interactive Power BI dashboard to analyze EV charging behavior, cost
 - Identification of peak usage periods and trends
 - Analysis of geographical distribution of charging sessions
 
-  **Technologies Used**
+  ## Technologies Used
+  
 - Power BI
 - DAX
 - Python
@@ -19,10 +20,12 @@ Designed an interactive Power BI dashboard to analyze EV charging behavior, cost
 - Matplotlib and Seaborn for data visualization
 - Jupyter Notebook for interactive analysis
 
- **Data Source**
+ # Data Source
+ 
 The dataset for EV charging patterns is used for the analysis and is preprocessed for better insights.
 
-Key Insights – Benefits – Future Scope
+## Key Insights – Benefits – Future Scope
+
 1.	Evening Charging:
 Most people charge in the evening → plan more chargers or lower prices at that time.
 2.	Day Trends:
@@ -71,7 +74,7 @@ These insights help optimize station placement, reduce wait times, improve custo
 
 3. Report 3:
 
-![Dashboard_Preview]()
+![Dashboard_Preview](https://github.com/jayeshyadav5202/Inspecting-Electric-Vehicle-Changing-Trends/blob/main/Report%203.png)
 
 4. Report 4:
 
