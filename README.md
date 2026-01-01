@@ -59,11 +59,11 @@ I included visuals like total sessions, energy consumption cards, peak charging 
 These insights help optimize station placement, reduce wait times, improve customer satisfaction, support energy planning, and cut costs by investing only in high-demand areas.
 
 
-DASHBOARD SCREENSHOTS:
+## DASHBOARD SCREENSHOTS:
 
 1. Report 1:
 
-![Dashboard_Preview]()
+![Dashboard_Preview](https://github.com/jayeshyadav5202/Inspecting-Electric-Vehicle-Changing-Trends/blob/main/Report%201.png)
 
 2. Report 2:
 
