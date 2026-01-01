@@ -11,7 +11,7 @@ Designed an interactive Power BI dashboard to analyze EV charging behavior, cost
 - Identification of peak usage periods and trends
 - Analysis of geographical distribution of charging sessions
 
-  ## Technologies Used
+## Technologies Used
   
 - Power BI
 - DAX
@@ -20,7 +20,7 @@ Designed an interactive Power BI dashboard to analyze EV charging behavior, cost
 - Matplotlib and Seaborn for data visualization
 - Jupyter Notebook for interactive analysis
 
- # Data Source
+## Data Source
  
 The dataset for EV charging patterns is used for the analysis and is preprocessed for better insights.
 
@@ -78,6 +78,6 @@ These insights help optimize station placement, reduce wait times, improve custo
 
 4. Report 4:
 
-![Dashboard_Preview]()
+![Dashboard_Preview](https://github.com/jayeshyadav5202/Inspecting-Electric-Vehicle-Changing-Trends/blob/main/Report%204.png)
 
 
